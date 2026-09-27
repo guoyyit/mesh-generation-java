@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### Mesh store (runtime task/result files) ###
+mesh-store/
